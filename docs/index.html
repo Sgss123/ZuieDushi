@@ -10,6 +10,11 @@
 </head>
 <body>
   <div id="app">请稍候……Please wait...</div>
+  <style type="text/css">
+	  .content{
+		  overflow:auto;
+	  }
+	</style>
   <script>
     window.$docsify = {
       name: 'GTAVC启动器使用文档',
@@ -41,6 +46,11 @@
 		}
 	}
   </script>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
