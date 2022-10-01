@@ -31,6 +31,13 @@
 
 </details>
 
+<details>
+
+<summary>GTAVC通关玩法</summary>
+<iframe src="//player.bilibili.com/player.html?aid=421854885&bvid=BV1v3411t7zQ&cid=445817165&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+</details>
+
 ### 下载
 #### <a href="../software/GTAVC启动器.exe" download="GTAVC启动器.exe">点我下载软件</a><br/>
 #### <a href="../src/gtavc.zip" download="gtavc.zip">点我下载游戏</a>
