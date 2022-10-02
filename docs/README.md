@@ -6,12 +6,14 @@
 
 <summary>查看软件界面</summary>
 
+## 关于软件
+
 ### 界面
 ![软件界面](src/jm.png)
 
 </details>
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 <details>
 
@@ -20,20 +22,25 @@
 <!-- [解压演示](/src/jy.mp4 ':include :type=video width=100% height=400px controls') -->
 #### 解压全过程
 
-<video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video>
+![解压全过程](/src/jy.gif)
+<!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
 	
 #### 简单快捷的DirectX修复
-![快速打开DX修复工具全自动修复](/src/DX.gif)
+![快速打开DX修复工具全自动修复](/src/dx.gif)
 
 #### 快速启动游戏
 ![点击即可启动](/src/lun.gif)
 
 </details>
 
+<br/><br/>
+
 <details>
 
-<summary>GTAVC通关玩法</summary>
+<summary>通关玩法</summary>
+
+#### 通关玩法
 <iframe src="//player.bilibili.com/player.html?aid=421854885&bvid=BV1v3411t7zQ&cid=445817165&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="900px" height="600px"> </iframe>
 
 </details>
