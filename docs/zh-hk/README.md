@@ -22,15 +22,16 @@
 <!-- [解压演示](/src/jy.mp4 ':include :type=video width=100% height=400px controls') -->
 #### 解壓全過程
 
-![解壓全過程](/src/jy.gif)
+![解壓全過程](,,/src/jy.gif)
+[點我ti](../jy.html)
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
 	
 #### 簡單又快捷嘅DirectX修復
-![快捷打開DX修復程式自動化修復](/src/dx.gif)
+![快捷打開DX修復程式自動化修復](../src/dx.gif)
 
 #### 快捷啓動游戲
-![快捷啓動游戲](/src/lun.gif)
+![快捷啓動游戲](../src/lun.gif)
 
 </details>
 
