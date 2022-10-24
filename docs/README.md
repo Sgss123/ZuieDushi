@@ -22,8 +22,8 @@
 <!-- [解压演示](/src/jy.mp4 ':include :type=video width=100% height=400px controls') -->
 #### 解压全过程
 
-![解压全过程](/src/jy.gif)
-[高清视频点我查看](jy.html)
+![解压全过程](/src/jy.gif)<br/>
+[高清视频点我查看](/jy.html)
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
 	
