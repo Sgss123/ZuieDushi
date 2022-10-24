@@ -63,7 +63,19 @@
       DynamicWatermark: {
         speed: 0.2,
         content: "GTAVC启动器",
-        opacity: 0.7
+        opacity: 0.7,
+		plugins: {
+		    ProgressMarker: true,
+		    ContextMenu: {
+		        statistic: true,
+		        levelSwitch: {
+		            open: true,
+		            switchingText: "开始切换至",
+		            switchedText: "切换成功",
+		            switchErrorText: "切换失败",
+		          }
+		    }
+		}
       }
     }
   });
