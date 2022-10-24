@@ -47,5 +47,5 @@
 </details>
 
 ### 下載程式
-#### <a href="../software/GTAVC启动器.exe" download="GTAVC启动器.exe">点我下載程式</a><br/>
+#### <a href="https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/software/GTAVC%E5%90%AF%E5%8A%A8%E5%99%A8.exe" download="GTAVC启动器.exe">点我下載程式</a><br/>
 #### <a href="../src/gtavc.zip" download="gtavc.zip">点我下载游戲</a>
