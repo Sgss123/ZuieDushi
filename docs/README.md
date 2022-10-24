@@ -23,7 +23,7 @@
 #### 解压全过程
 
 ![解压全过程](/src/jy.gif)
-[高清视频点我查看](video.html)
+[高清视频点我查看](jy.html)
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
 	
