@@ -1,4 +1,4 @@
-![Logo](img/top.png)
+![Logo](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/images%2Ftop.png)
 
 # GTAVC启动器使用文档 
 ## 前言

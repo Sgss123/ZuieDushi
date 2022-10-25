@@ -1,4 +1,4 @@
-![Logo](../img/top_hk.png)
+![Logo](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/images%2Ftop_hk.png)
 
 # GTAVC啓動器使用文檔
 ## 開篇之前
