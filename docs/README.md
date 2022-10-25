@@ -11,7 +11,7 @@
 ## 关于软件
 
 ### 界面
-![软件界面](src/jm.png)
+![软件界面](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/images%2Fjm.png)
 
 </details>
 

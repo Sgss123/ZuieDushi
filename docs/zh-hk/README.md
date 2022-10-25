@@ -11,7 +11,7 @@
 <summary>查看程式界面</summary>
 
 ### 界面
-![程式界面](src/jm.png)
+![程式界面](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/images%2Fjm.png)
 
 </details>
 
