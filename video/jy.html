@@ -80,6 +80,45 @@
     }
   });
   tcplayer.src("https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/jy.mp4")
+  <script>
+      var PosterImage = TCPlayer.getComponent('PosterImage');
+      PosterImage.prototype.handleClick = function () {
+        window.open('https://mtrbbs.top');
+      };
+
+      var player = TCPlayer('player-container-id', {
+        poster:
+          "https://www.mtrbbs.top/template/dzcool_bbs28/images/logo_new.png",
+      });
+      player.src(
+        'https://cos-video-1258344699.cos.ap-guangzhou.tencentcos.cn/test.mp4'
+      );
+
+      var adTextNode = document.createElement('span');
+      adTextNode.className = 'ad-text-node';
+      adTextNode.innerHTML = '广告';
+
+      var adCloseIconNode = document.createElement('i');
+      adCloseIconNode.className = 'ad-close-icon-node';
+      adCloseIconNode.onclick = function (e) {
+        e.stopPropagation();
+        player.posterImage.hide();
+      };
+
+      player.posterImage.el_.appendChild(adTextNode);
+      player.posterImage.el_.appendChild(adCloseIconNode);
+
+      player.on('pause', function () {
+        player.posterImage.show();
+        player.posterImage.el_.style.width = '60%';
+        player.posterImage.el_.style.height = '60%';
+        player.posterImage.el_.style.display = 'flex';
+      });
+
+      player.on('playing', function () {
+        player.posterImage.hide();
+      });
+    </script>
 </script>
 </body>
 </html>
