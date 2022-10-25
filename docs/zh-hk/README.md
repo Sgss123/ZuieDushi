@@ -1,4 +1,4 @@
-![Logo](img/top_hk.png)
+![Logo](../img/top_hk.png)
 
 # GTAVC啓動器使用文檔
 ## 開篇之前
