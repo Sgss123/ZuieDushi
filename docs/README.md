@@ -1,4 +1,6 @@
-# GTAVC启动器使用文档
+![Logo](img/top.png)
+
+# GTAVC启动器使用文档 
 ## 前言
 欢迎您使用此软件，此软件是为了群里面的各位小伙伴能够快速打开GTAVC原版的游戏而编写的
 
@@ -23,7 +25,7 @@
 #### 解压全过程
 
 ![解压全过程](/src/jy.gif)<br/>
-[高清视频点我查看](../jy.html)
+[高清视频点我查看](https://www.waterspo.top/ZuieDushi/docs/video/jy.html)
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
 	
