@@ -22,7 +22,7 @@
 <!-- [解压演示](/src/jy.mp4 ':include :type=video width=100% height=400px controls') -->
 #### 解壓全過程
 
-[高清視頻跟我睇](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FUnzip.mp4 ':include'l)
+[高清視頻跟我睇](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FUnzip.mp4 ':include')
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
 #### 快捷啓動游戲
