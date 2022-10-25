@@ -22,16 +22,14 @@
 <!-- [解压演示](/src/jy.mp4 ':include :type=video width=100% height=400px controls') -->
 #### 解壓全過程
 
-![解壓全過程](,,/src/jy.gif)
-[高清視頻跟我睇](../jy.html)
+[高清視頻跟我睇](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FUnzip.mp4 ':include'l)
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
-	
-#### 簡單又快捷嘅DirectX修復
-![快捷打開DX修復程式自動化修復](../src/dx.gif)
-
 #### 快捷啓動游戲
-![快捷啓動游戲](../src/lun.gif)
+![快捷啓動游戲](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FLaunch.mp4 ':include')
+
+#### 修復外挂程式
+[修復](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FCheat.mp4 ':include')
 
 </details>
 
