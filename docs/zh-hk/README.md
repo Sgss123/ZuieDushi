@@ -23,7 +23,7 @@
 #### 解壓全過程
 
 ![解壓全過程](,,/src/jy.gif)
-[點我ti](../jy.html)
+[高清視頻跟我睇](../jy.html)
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
 	
