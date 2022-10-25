@@ -24,16 +24,16 @@
 <!-- [解压演示](/src/jy.mp4 ':include :type=video width=100% height=400px controls') -->
 #### 解压全过程
 
-![解压全过程](/src/jy.gif)<br/>
-[高清视频点我查看](https://www.waterspo.top/ZuieDushi/docs/video/jy.html)
+[解压全过程](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FUnzip.mp4 ':include')
 <!-- <video controls width="768px" height="432px" source src="/src/jy.mp4" type="video/mp4"></video> -->
 	
-	
-#### 简单快捷的DirectX修复
-![快速打开DX修复工具全自动修复](/src/dx.gif)
-
 #### 快速启动游戏
-![点击即可启动](/src/lun.gif)
+[点击即可启动](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FLaunch.mp4 ':include')
+	
+#### 修复作弊器
+[修复](https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/video%2FCheat.mp4 ':include')
+
+
 
 </details>
 
