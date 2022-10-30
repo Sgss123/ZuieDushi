@@ -49,5 +49,5 @@
 </details>
 
 ### 下载
-#### <a href="https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/software/GTAVC%E5%90%AF%E5%8A%A8%E5%99%A8.exe" download="GTAVC启动器.exe">点我下载软件</a><br/>
+<!--#### <a href="https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/software/GTAVC%E5%90%AF%E5%8A%A8%E5%99%A8.exe" download="GTAVC启动器.exe">点我下载软件</a><br/>-->
 #### <a href="https://sgss-1304995454.cos.ap-guangzhou.myqcloud.com/%E7%BD%AA%E6%81%B6%E9%83%BD%E5%B8%82%E4%B8%AD%E6%96%87%E7%89%88.zip" download="罪恶都市中文版.zip">点我下载游戏</a>
