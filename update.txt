@@ -1,4 +1,4 @@
-下载地址：http://gta.docs.waterspo.top
+下载地址：http://docs.gta.waterspo.top
 Ver2.2更新内容如下：
 提供丢失Mss32.dll的解决方法
 1.7-1.9版本仍然可用(前提已打开)
