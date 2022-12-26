@@ -1,0 +1,14 @@
+- [首页](/)
+- 关于游戏
+	- GTA系列
+		- [罪恶都市(原版/重制版)](/vc/)
+			- [下载游戏](/vc/game-download.md)
+			- [通关路线](/vc/line.md)
+			- [详细通关方法](/vc/start_2_end.md)
+			- [作弊码](/vc/Hacker_code.md)
+		- [GTA Ⅴ](/gta5/)
+		- [GTA San Andreas](/gtasa/)
+	- [深海迷航](/Subnautica/)
+	- Minecraft 《我的世界》
+		- [网易版](https://mc.163.com)
+		- [国际版](https://minecraft.net)
